@@ -4,4 +4,8 @@ bridgerton
 ripley
 the umbrella academy
 
+<<<<<<< HEAD
 Otra serie ACI
+=======
+Bridgerton la he visto!!
+>>>>>>> 3ec8b55832c5492b7fb3b2c14d1ebd46d703445a
